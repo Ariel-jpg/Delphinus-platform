@@ -1,0 +1,21 @@
+{
+    "themes": {
+        "principalTheme": {
+            "backgroundColor": "#260101",
+            "accentColor": "#59080F",
+            "textColor": "#F2958D"
+        },
+        "secondaryTheme": {
+            "backgroundColor": "red",
+            "accentColor": "yellow",
+            "textColor": "green"
+        }
+    },
+    "font_sizes": {
+        "largue": "2.3rem",
+        "medium": "1.5rem",
+        "regular": "1rem",
+        "small": "0.7rem"
+    },
+    "border_radius": "0.5rem"
+}
